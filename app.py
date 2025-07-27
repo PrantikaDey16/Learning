@@ -6,7 +6,7 @@ st.title("Hello Everyone this is our first application!!")
 st.write("This is SCIT in Pune")
 
 df=pd.DataFrame({
-    'first column' : [1,2,3,4]
+    'first column' : [1,2,3,4],
     'second column' : [10,20,30,40]
 })
 
